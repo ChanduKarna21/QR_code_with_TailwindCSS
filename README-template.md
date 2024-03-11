@@ -84,9 +84,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Bala Chandra Sekhar Reddy karna](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Bala Chandra Sekhar Reddy karna](https://qr-code-using-tailwind.netlify.app/)
+- Frontend Mentor - [@ChanduKarna21](https://www.frontendmentor.io/profile/ChanduKarna21)
+- Twitter - [@](https://www.twitter.com/yourusername)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
